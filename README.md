@@ -23,7 +23,7 @@ NumPy: Powers the vectorized math calculations for 3,000+ simultaneous particles
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/hollow-purple-engine.git
+git clone https://github.com/ahelikar/GOJO_RENGOKU_FLAMES.git
 cd hollow-purple-engine
 Install the required dependencies:
 
